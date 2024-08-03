@@ -12,13 +12,24 @@
 
 #header p {
     margin-top: 24px;
+   
 
+}
+
+#pdobusan {
+    text-align: center;
+}
+
+#pdofinal {
+    padding-top: 40px;
 }
 
 #line {
     color: #D9D9D9;
-    border-top: 40px;
-    border-style:solid;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-top: 1px;
+    border-style: solid;
 }
 
 
@@ -42,4 +53,42 @@ main {
 h2 {
     margin-top: 2px;
     margin-bottom: 8px;
+}
+
+main img {
+    margin-top: 48px;
+    margin-bottom: 20px;
+
+}
+
+span {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #E1624F;
+}
+
+ul {
+    margin-top:25px ;
+    font-weight: bold;
+}
+
+a {
+    color: #0C51A7;
+}
+
+#familias {
+    color: #E5245E;
+}
+
+#orçamentos {
+    color: #E95E10;
+}
+
+#ulfinal {
+    padding-bottom: 40px;
+}
+
+footer {
+    margin-top: 65px;
+    text-align: center;
 }
